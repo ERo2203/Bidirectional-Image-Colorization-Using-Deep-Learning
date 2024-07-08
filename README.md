@@ -10,4 +10,5 @@ The Jupyter notebook, `ColortoGrey.ipynb`, complements the script by providing d
 
 This bidirectional approach demonstrates the effectiveness of deep learning in automating and enhancing the image colorization process. Future improvements can focus on refining the model architecture and experimenting with different datasets to achieve better results and generalization. This technique has potential applications in image restoration, content creation, and digital art.
 
-#dataset link: https://shorturl.at/FU9lD
+# Dataset link: 
+https://shorturl.at/FU9lD
